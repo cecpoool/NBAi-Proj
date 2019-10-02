@@ -1,0 +1,14 @@
+C:\Users\cjmco\source\repos\BackEndNew\BabyPrawnAPI\bin\Release\netcoreapp2.2\BabyPrawnAPI.deps.json
+C:\Users\cjmco\source\repos\BackEndNew\BabyPrawnAPI\bin\Release\netcoreapp2.2\BabyPrawnAPI.runtimeconfig.json
+C:\Users\cjmco\source\repos\BackEndNew\BabyPrawnAPI\bin\Release\netcoreapp2.2\BabyPrawnAPI.runtimeconfig.dev.json
+C:\Users\cjmco\source\repos\BackEndNew\BabyPrawnAPI\bin\Release\netcoreapp2.2\BabyPrawnAPI.dll
+C:\Users\cjmco\source\repos\BackEndNew\BabyPrawnAPI\bin\Release\netcoreapp2.2\BabyPrawnAPI.pdb
+C:\Users\cjmco\source\repos\BackEndNew\BabyPrawnAPI\obj\Release\netcoreapp2.2\BabyPrawnAPI.csprojAssemblyReference.cache
+C:\Users\cjmco\source\repos\BackEndNew\BabyPrawnAPI\obj\Release\netcoreapp2.2\BabyPrawnAPI.csproj.CoreCompileInputs.cache
+C:\Users\cjmco\source\repos\BackEndNew\BabyPrawnAPI\obj\Release\netcoreapp2.2\BabyPrawnAPI.RazorAssemblyInfo.cache
+C:\Users\cjmco\source\repos\BackEndNew\BabyPrawnAPI\obj\Release\netcoreapp2.2\BabyPrawnAPI.RazorAssemblyInfo.cs
+C:\Users\cjmco\source\repos\BackEndNew\BabyPrawnAPI\obj\Release\netcoreapp2.2\BabyPrawnAPI.AssemblyInfoInputs.cache
+C:\Users\cjmco\source\repos\BackEndNew\BabyPrawnAPI\obj\Release\netcoreapp2.2\BabyPrawnAPI.AssemblyInfo.cs
+C:\Users\cjmco\source\repos\BackEndNew\BabyPrawnAPI\obj\Release\netcoreapp2.2\BabyPrawnAPI.RazorTargetAssemblyInfo.cache
+C:\Users\cjmco\source\repos\BackEndNew\BabyPrawnAPI\obj\Release\netcoreapp2.2\BabyPrawnAPI.dll
+C:\Users\cjmco\source\repos\BackEndNew\BabyPrawnAPI\obj\Release\netcoreapp2.2\BabyPrawnAPI.pdb

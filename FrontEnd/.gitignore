@@ -1,0 +1,6 @@
+.vs/
+/nbai-backend/nbai-db/nbai-db.dbmdl
+/nbai-backend/*/bin
+/nbai-backend/*/obj
+/nbai-backend/*/appsettings*
+*.jfm
